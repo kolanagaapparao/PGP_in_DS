@@ -1,0 +1,18 @@
+create a dummy column Date with data in the format '02/15/2020 20:31:15'. and create another column name with values like "Mr John James" and " John James"
+
+1 - Extract the month out of the date in the format "Jan" "Feb" etc and create a separate column 
+
+2 - Extract the time out of it and create a separate column with values " afternoon , morning , evening , night " based on the hour . 
+
+3 - Create another data frame with the names of states and abbreviation of the state and join with the original data frame . 
+
+4 - Extract the first name out of the newly created name column 
+
+5 - change the value of condition to number of hours left for all the records . 
+
+6 - create bins of mileage and separate them into different groups based on the values . 
+
+
+
+There should be six additional columns created for each requirement. 
+
