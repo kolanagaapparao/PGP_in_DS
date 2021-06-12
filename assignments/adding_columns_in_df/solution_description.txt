@@ -1,0 +1,24 @@
+Solution for assignment given on 06/06/2021.
+
+Please find the files as mentioned below in the attached ZIP file (assignment.zip).
+1. Source code for the assignment “assignmentcode.txt”
+2. Input CSV file for testing the source code in assignment.R is “USA_cars_datasets_1.CSV”
+3. Output file generated after adding the mentioned columns to the given table in the assignment is “USA_cars_datasets_Modified.CSV”
+4. Used "us_state_codes.CSV" file for getting the codes (abbreviations) of each state in USA.
+
+Brief implementation details.
+1. Created functions for each task/activity in the assignment
+2. Applied these functions on the respective columns using apply(...)
+3. Added the resultant column data obtained (in step-2) to the original table using cbind(...)
+4. After adding all the new columns to the original table, written the new table to “USA_cars_datasets_Modified.CSV” file
+
+How to use this code?
+1. Place the source code and input CSV file in the same folder (directory)
+2. Set that folder directory) as workspace
+3. RUN the source code; and output file will be generated
+
+Request
+- Please provide the feedback on this code, and let me know in case if you run into problems when using this code.
+
+
+Thanks in advance for your time to looking into this code.
