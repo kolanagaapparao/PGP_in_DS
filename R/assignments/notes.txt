@@ -1,1 +1,0 @@
-This folder contains the cheatsheer for R with Data Science
