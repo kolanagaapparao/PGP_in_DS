@@ -1,1 +1,0 @@
-This folder contains the material related to R with Data Science
